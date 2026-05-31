@@ -10,7 +10,3 @@ Building **production-grade AI systems**: **RAG**, **agentic workflows**, and **
 
 ## Focus
 `Python` `FastAPI` `RAG` `Agents` `Evaluation` `Qdrant` `PostgreSQL` `Docker`
-
-## Links
-- Website: https://miharcan.github.io/
-- GitHub: https://github.com/miharcan
